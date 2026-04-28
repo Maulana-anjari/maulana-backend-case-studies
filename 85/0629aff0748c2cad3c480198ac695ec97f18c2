@@ -1,0 +1,21 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "850629aff0748c2cad3c480198ac695ec97f18c2",
+  "prompts": {
+    "e49f43aeedf5140b": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_22d97aed4ffealQSMT5XuVcOxo",
+        "model": "github-copilot/gpt-5.4-mini"
+      },
+      "human_author": "Maulana Anjari Anggorokasih",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 73,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    }
+  }
+}
