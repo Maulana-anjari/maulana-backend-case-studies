@@ -1,0 +1,35 @@
+case-studies/technocorner-registration-platform.md
+  e49f43aeedf5140b 9-10,15-16,21-22,28-29,34-35,43-50,67-68,81-82,89-90,95-98,102-105,109-111,115-118,122-127,135
+case-studies/pharma-chain-hyperledger-fabric.md
+  e49f43aeedf5140b 7-8,13-14,21-22,28-29,34-35,43-50,67-68,83-84,91-92,97-100,104-107,111-113,117-120,124-130,138
+case-studies/find-it-registration-platform.md
+  e49f43aeedf5140b 9-10,15-16,21-22,28-29,34-35,43-50,67-68,82-83,90-91,96-99,103-106,110-112,116-119,123-128,141-142
+case-studies/car-dano-cardano-backend.md
+  e49f43aeedf5140b 7-8,13-14,21-22,28-29,34-35,43-50,68-69,82-83,90-91,96-99,103-106,110-112,116-119,123-129,137
+case-studies/pertamina-llm-insight-platform.md
+  e49f43aeedf5140b 9-10,15-16,21-22,29-30,35-36,44-51,69-70,84-85,93-94,99-102,106-109,113-115,119-122,126-131,139
+case-studies/sumbapay-web3-payment-infrastructure.md
+  e49f43aeedf5140b 9-10,15-16,21-22,29-30,35-36,44-51,68-69,82-83,90-91,96-99,103-106,110-112,116-119,123-128,136
+README.md
+  e49f43aeedf5140b 11-12,17-18,33-34,42-43,55-56,75
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "d6f7d8c5d8f6a4c8ab1b1bc79170d6649de05758",
+  "prompts": {
+    "e49f43aeedf5140b": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_22d97aed4ffealQSMT5XuVcOxo",
+        "model": "github-copilot/gpt-5.4-mini"
+      },
+      "human_author": "Maulana Anjari Anggorokasih",
+      "messages": [],
+      "total_additions": 296,
+      "total_deletions": 56,
+      "accepted_lines": 296,
+      "overriden_lines": 0
+    }
+  }
+}
