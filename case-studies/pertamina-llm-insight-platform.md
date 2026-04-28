@@ -24,6 +24,20 @@ Python, FastAPI, SQL Server, Milvus, Redis, RBAC, REST APIs, LLM integration, ca
 
 The system needed reliable backend behavior, fast iteration, and structured access control. It also had to support LLM-related workflows without degrading stability or maintainability.
 
+### Sub-Problem: backend stability under workflow changes
+
+- Problem: workflow requirements changed frequently and needed consistent API behavior.
+- Solution: kept API contracts explicit and supported backend changes with a clear data access layer.
+- Stack: FastAPI, SQL Server, Redis, RBAC.
+- Result: faster issue-to-merge cycles and more reliable delivery.
+
+### Sub-Problem: retrieval support for LLM workflows
+
+- Problem: the system needed retrieval support without sacrificing backend performance.
+- Solution: used Milvus plus caching to support LLM-adjacent features.
+- Stack: Milvus, Redis, FastAPI.
+- Result: stable integration layer for LLM workflows.
+
 ## Stack
 
 - Python
@@ -46,6 +60,39 @@ The system needed reliable backend behavior, fast iteration, and structured acce
 
 - Reduced median issue-to-merge lead time by **51.9%**
 - Built and fixed backend features with a production-first delivery cadence
+
+## Solution
+
+- Designed explicit REST API contracts for backend workflows
+- Separated structured data in SQL Server from retrieval support in Milvus
+- Added Redis caching to reduce repeated backend work
+- Enforced RBAC so access stayed aligned with roles and workflows
+
+## Evidence
+
+### Demo / Video
+
+- Demo GIF: _add link or embed_
+- YouTube / Loom: _add link or embed_
+
+### Architecture
+
+- Architecture diagram: _add link or embed_
+- Flow diagram: _add link or embed_
+
+### Data Model
+
+- ERD: _add link or embed_
+
+### Code / Pattern
+
+- Code snippet: _add link or embed_
+- Architecture pattern: API-first backend with explicit RBAC and caching
+
+### Metrics
+
+- 51.9% faster issue-to-merge lead time
+- Reliable integration support for LLM-related workflows
 
 ## Challenges
 

@@ -24,6 +24,20 @@ Node.js, NestJS, PostgreSQL, Prisma, QRIS integration, MPC wallet workflows, S3-
 
 The platform needed a reliable backend foundation for payment workflows while remaining flexible enough to support Web3-specific infrastructure and operational growth.
 
+### Sub-Problem: payment workflow reliability
+
+- Problem: payment-adjacent workflows needed to stay predictable and maintainable.
+- Solution: separated service logic from persistence and external integration points.
+- Stack: Node.js/NestJS, PostgreSQL, Prisma.
+- Result: clearer backend boundaries for payment flows.
+
+### Sub-Problem: QRIS and wallet integration
+
+- Problem: the product required QRIS integration and MPC wallet workflows.
+- Solution: structured integrations behind backend service boundaries.
+- Stack: QRIS, MPC wallet workflows, backend services.
+- Result: product-ready integration layer for future scaling.
+
 ## Stack
 
 - Node.js / NestJS
@@ -44,6 +58,38 @@ The platform needed a reliable backend foundation for payment workflows while re
 
 - Supported product readiness for SumbuPay
 - Helped the initiative receive **IDR 50,000,000** in FT UGM startup support funding
+
+## Solution
+
+- Built service boundaries around payment and platform workflows
+- Used Prisma + PostgreSQL for transactional persistence
+- Kept storage and integration concerns isolated from core business logic
+
+## Evidence
+
+### Demo / Video
+
+- Demo GIF: _add link or embed_
+- YouTube / Loom: _add link or embed_
+
+### Architecture
+
+- Architecture diagram: _add link or embed_
+- Flow diagram: _add link or embed_
+
+### Data Model
+
+- ERD: _add link or embed_
+
+### Code / Pattern
+
+- Code snippet: _add link or embed_
+- Architecture pattern: backend service boundaries for payment workflows
+
+### Metrics
+
+- IDR 50,000,000 startup support funding
+- Product readiness achieved for the initiative
 
 ## Challenges
 

@@ -23,6 +23,20 @@ Node.js, JWT authentication, team workflows, Google Drive upload, Google Sheets 
 
 The platform required dependable registration handling, team coordination, document upload support, and admin checks for a multi-category event process.
 
+### Sub-Problem: team registration consistency
+
+- Problem: team workflows needed to stay predictable across event categories.
+- Solution: used JWT-protected backend actions and explicit team flows.
+- Stack: Node.js, JWT authentication, backend workflow logic.
+- Result: clearer team registration paths.
+
+### Sub-Problem: admin verification and file handling
+
+- Problem: the system needed document uploads and admin verification.
+- Solution: integrated Google Drive upload and Google Sheets stats support.
+- Stack: Google Drive, Google Sheets, admin verification flows.
+- Result: reduced manual verification work.
+
 ## Stack
 
 - Node.js
@@ -44,6 +58,38 @@ The platform required dependable registration handling, team coordination, docum
 
 - Built the backend REST API for a national competition registration platform
 - Covered **6 event categories**
+
+## Solution
+
+- Built backend APIs for registration, team management, and admin operations
+- Added JWT auth for protected actions
+- Integrated reporting and file handling into the backend workflow
+
+## Evidence
+
+### Demo / Video
+
+- Demo GIF: _add link or embed_
+- YouTube / Loom: _add link or embed_
+
+### Architecture
+
+- Architecture diagram: _add link or embed_
+- Flow diagram: _add link or embed_
+
+### Data Model
+
+- ERD: _add link or embed_
+
+### Code / Pattern
+
+- Code snippet: _add link or embed_
+- Architecture pattern: JWT-protected registration workflow
+
+### Metrics
+
+- Backend API for 6 event categories
+- Reduced manual verification effort through automation
 
 ## Challenges
 

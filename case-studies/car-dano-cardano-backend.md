@@ -23,6 +23,20 @@ The work focused on making the backend production-ready, fast, and reliable whil
 
 The platform needed a backend that could support real inspection workflows, Cardano-based verification, and day-to-day operational reliability for concurrent users.
 
+### Sub-Problem: inspection workflow performance
+
+- Problem: inspection flow latency needed to be improved for production use.
+- Solution: optimized backend paths and kept the API efficient.
+- Stack: Node.js, Prisma, PostgreSQL, REST APIs.
+- Result: turnaround reduced by up to 50%.
+
+### Sub-Problem: blockchain-backed verification
+
+- Problem: inspection records needed on-chain verification without slowing the app down.
+- Solution: isolated Cardano verification from core backend workflow.
+- Stack: Cardano, NFT minting, backend services.
+- Result: reliable blockchain-backed inspection flow.
+
 ## Stack
 
 - Cardano
@@ -44,6 +58,39 @@ The platform needed a backend that could support real inspection workflows, Card
 
 - Reduced vehicle-inspection turnaround by up to **50%**
 - Kept the platform stable with **~100% faster response time** and **100% uptime** for **20 concurrent users**
+
+## Solution
+
+- Separated inspection workflows from blockchain verification
+- Used Prisma and PostgreSQL for transactional consistency
+- Kept deployment and CI/CD aligned with production reliability goals
+
+## Evidence
+
+### Demo / Video
+
+- Demo GIF: _add link or embed_
+- YouTube / Loom: _add link or embed_
+
+### Architecture
+
+- Architecture diagram: _add link or embed_
+- Flow diagram: _add link or embed_
+
+### Data Model
+
+- ERD: _add link or embed_
+
+### Code / Pattern
+
+- Code snippet: _add link or embed_
+- Architecture pattern: backend + blockchain verification separation
+
+### Metrics
+
+- 50% faster vehicle-inspection turnaround
+- ~100% faster response time
+- 100% uptime for 20 concurrent users
 
 ## Challenges
 

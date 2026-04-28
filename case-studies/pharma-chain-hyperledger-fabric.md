@@ -23,6 +23,20 @@ The project explored secure data exchange between hospital and insurance network
 
 The system needed a testbed for secure interoperability between distinct blockchain networks without overloading the ledger with large data.
 
+### Sub-Problem: cross-network interoperability
+
+- Problem: hospital and insurance networks needed to exchange data securely.
+- Solution: built a cross-network application flow around Hyperledger Fabric.
+- Stack: Hyperledger Fabric, REST APIs, off-chain databases.
+- Result: two networks could work together in a controlled testbed.
+
+### Sub-Problem: ledger size and data storage
+
+- Problem: large data could not live directly on-chain.
+- Solution: used IPFS and off-chain storage for heavy data.
+- Stack: IPFS, off-chain databases, Docker.
+- Result: a more efficient distributed architecture.
+
 ## Stack
 
 - Hyperledger Fabric
@@ -45,6 +59,39 @@ The system needed a testbed for secure interoperability between distinct blockch
 - Built **2 independent Hyperledger Fabric networks**
 - Configured **6 organizations**
 - Coordinated **30+ Docker containers**
+
+## Solution
+
+- Split the prototype into two Fabric networks
+- Added off-chain data handling for large or heavy content
+- Used IPFS for decentralized storage and backend traceability
+
+## Evidence
+
+### Demo / Video
+
+- Demo GIF: _add link or embed_
+- YouTube / Loom: _add link or embed_
+
+### Architecture
+
+- Architecture diagram: _add link or embed_
+- Flow diagram: _add link or embed_
+
+### Data Model
+
+- ERD: _add link or embed_
+
+### Code / Pattern
+
+- Code snippet: _add link or embed_
+- Architecture pattern: on-chain verification with off-chain storage
+
+### Metrics
+
+- 2 independent Hyperledger Fabric networks
+- 6 organizations configured
+- 30+ Docker containers
 
 ## Challenges
 

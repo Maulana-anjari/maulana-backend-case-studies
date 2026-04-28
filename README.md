@@ -12,6 +12,20 @@ Backend engineer with 3+ years of experience across enterprise LLM systems, Web3
 
 Python, FastAPI, Node.js, NestJS, REST APIs, SQL Server, PostgreSQL, Prisma, Redis, RBAC, JWT, Docker, GitHub Actions, CI/CD, Milvus, IPFS, Hyperledger Fabric, Cardano, QRIS, blockchain verification, caching, workflow automation, database design, integration engineering
 
+## Reading Format
+
+Each case study now follows this structure:
+
+1. Overview
+2. My Role
+3. Problem
+4. Solution
+5. Stack
+6. Result / Impact
+7. Evidence
+8. Challenges
+9. What I Learned
+
 ## What you'll find
 
 - Backend and API work
