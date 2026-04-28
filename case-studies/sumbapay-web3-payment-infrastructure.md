@@ -6,6 +6,10 @@ Backend foundations for a Web3 payment platform focused on payments, QRIS integr
 
 The work centered on making the backend dependable enough for product readiness while keeping the system flexible for future growth.
 
+## Repository
+
+- Private project; details sanitized for public sharing
+
 ## My Role
 
 - Backend Engineer (Part-time, Co-Founder)

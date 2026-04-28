@@ -6,6 +6,10 @@ Backend system for a national competition registration platform supporting multi
 
 The goal was to deliver a stable registration backend quickly and keep event operations manageable.
 
+## Repository
+
+- Private project; details sanitized for public sharing
+
 ## My Role
 
 - Backend Developer

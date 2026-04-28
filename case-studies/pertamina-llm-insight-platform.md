@@ -6,6 +6,10 @@ Enterprise LLM insight platform for internal analysis and operational workflows.
 
 I worked on the backend layer that kept the system reliable, fast, and maintainable while supporting integration-heavy features.
 
+## Repository
+
+- Private project; details sanitized for public sharing
+
 ## My Role
 
 - Backend Engineer (Part-time)

@@ -1,8 +1,8 @@
-# Maulana Backend Case Studies
+# Maulana Backend Experience Hub
 
 Recruiter-friendly case studies for backend and software engineering work.
 
-This repo collects sanitized project write-ups that highlight architecture, delivery, and measurable impact across production and research systems.
+This repo collects sanitized and public project write-ups that highlight architecture, delivery, and measurable impact across production and research systems.
 
 ## What you'll find
 
@@ -19,6 +19,8 @@ This repo collects sanitized project write-ups that highlight architecture, deli
 | [SumbuPay Web3 Payment Infrastructure](case-studies/sumbapay-web3-payment-infrastructure.md) | Node.js/NestJS, PostgreSQL, Prisma, QRIS, MPC wallets | Supported product readiness and startup funding |
 | [Technocorner Registration Platform](case-studies/technocorner-registration-platform.md) | REST APIs, auth, Google Drive/Sheets, deployment support | Backend API from scratch for 5 competition tracks |
 | [Find-It Registration Platform](case-studies/find-it-registration-platform.md) | JWT auth, team workflows, Google Drive/Sheets, admin verification | Backend API for 6 event categories |
+| [CAR-dano / Cardano Backend](case-studies/car-dano-cardano-backend.md) | Cardano, Node.js, Prisma, PostgreSQL, NFT minting, CI/CD | ~100% faster response time and 100% uptime for 20 concurrent users |
+| [Pharma Chain / Hyperledger Fabric](case-studies/pharma-chain-hyperledger-fabric.md) | Hyperledger Fabric, IPFS, REST APIs, off-chain DB, benchmarking | 2 Fabric networks, 6 organizations, 30+ Docker containers |
 
 ## How to read this repo
 
@@ -32,6 +34,11 @@ Each case study follows the same structure:
 6. Impact
 7. Challenges
 8. What I Learned
+
+## Public project sources
+
+- [CAR-dano / cardano-backend](https://github.com/CAR-dano/cardano-backend)
+- [Pharma Chain / pharma-chain](https://github.com/dteti-sys-rsch/pharma-chain)
 
 ## Notes
 
