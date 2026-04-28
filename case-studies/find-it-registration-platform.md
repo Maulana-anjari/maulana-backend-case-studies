@@ -6,22 +6,32 @@ Backend system for a national competition registration platform covering multipl
 
 This project shows how I handled registration logic, team workflows, and admin checks in a production-style event system.
 
+---
+
 ## 🔗 Repository
 
 - Private project; details sanitized for public sharing
 
+---
+
 ## 🔑 Backend Keywords
 
 Node.js, JWT authentication, team workflows, Google Drive upload, Google Sheets statistics, admin verification, backend API, registration system, workflow automation
+
+---
 
 ## 🛠️ My Role
 
 - Backend Developer
 - Focused on backend API design, team workflows, and admin verification flows
 
+---
+
 ## ❗ Problem
 
 The platform required dependable registration handling, team coordination, document upload support, and admin checks for a multi-category event process.
+
+---
 
 ### 🧩 Sub-Problem: team registration consistency
 
@@ -29,6 +39,14 @@ The platform required dependable registration handling, team coordination, docum
 - Solution: used JWT-protected backend actions and explicit team flows.
 - Stack: Node.js, JWT authentication, backend workflow logic.
 - Result: clearer team registration paths.
+
+### 📊 Metric callouts
+
+<p align="left">
+  <img src="https://img.shields.io/badge/6-event_categories-0ea5e9?style=for-the-badge" alt="6 event categories" />
+  <img src="https://img.shields.io/badge/JWT-auth_protection-111827?style=for-the-badge" alt="JWT auth protection" />
+  <img src="https://img.shields.io/badge/Google_Drive+Sheets-automation-10b981?style=for-the-badge" alt="Google Drive and Sheets automation" />
+</p>
 
 ### 🧩 Sub-Problem: admin verification and file handling
 
@@ -46,6 +64,8 @@ The platform required dependable registration handling, team coordination, docum
 - Google Sheets statistics
 - Admin verification flows
 
+---
+
 ## Architecture / Flow
 
 - Backend API for registration and team management
@@ -59,37 +79,53 @@ The platform required dependable registration handling, team coordination, docum
 - Built the backend REST API for a national competition registration platform
 - Covered **6 event categories**
 
+---
+
 ## ✅ Solution
 
 - Built backend APIs for registration, team management, and admin operations
 - Added JWT auth for protected actions
 - Integrated reporting and file handling into the backend workflow
 
+---
+
 ## 🖼️ Evidence
 
 ### 🎥 Demo / Video
 
-- Demo GIF: _add link or embed_
-- YouTube / Loom: _add link or embed_
+| Asset | Placeholder |
+|---|---|
+| Demo GIF | _add link or embed_ |
+| YouTube / Loom | _add link or embed_ |
 
 ### 🏗️ Architecture
 
-- Architecture diagram: _add link or embed_
-- Flow diagram: _add link or embed_
+| Asset | Placeholder |
+|---|---|
+| Architecture diagram | _add link or embed_ |
+| Flow diagram | _add link or embed_ |
 
 ### 🗃️ Data Model
 
-- ERD: _add link or embed_
+| Asset | Placeholder |
+|---|---|
+| ERD | _add link or embed_ |
 
 ### 💻 Code / Pattern
 
-- Code snippet: _add link or embed_
-- Architecture pattern: JWT-protected registration workflow
+| Asset | Placeholder |
+|---|---|
+| Code snippet | _add link or embed_ |
+| Architecture pattern | JWT-protected registration workflow |
 
 ### 📊 Metrics
 
-- Backend API for 6 event categories
-- Reduced manual verification effort through automation
+| Metric | Value |
+|---|---|
+| Event categories | 6 |
+| Manual verification effort | Reduced through automation |
+
+---
 
 ## ⚠️ Challenges
 
@@ -102,3 +138,5 @@ The platform required dependable registration handling, team coordination, docum
 - Clean workflow boundaries reduce operational mistakes
 - Backend systems for events need clear admin and user paths
 - Practical integrations matter more than overengineering
+
+---

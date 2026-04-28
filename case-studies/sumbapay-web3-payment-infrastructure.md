@@ -6,13 +6,19 @@ Backend foundations for a Web3 payment platform focused on payments, QRIS integr
 
 The work centered on making the backend dependable enough for product readiness while keeping the system flexible for future growth.
 
+---
+
 ## 🔗 Repository
 
 - Private project; details sanitized for public sharing
 
+---
+
 ## 🔑 Backend Keywords
 
 Node.js, NestJS, PostgreSQL, Prisma, QRIS integration, MPC wallet workflows, S3-compatible storage, payment infrastructure, backend architecture, product readiness
+
+---
 
 ## 🛠️ My Role
 
@@ -20,9 +26,13 @@ Node.js, NestJS, PostgreSQL, Prisma, QRIS integration, MPC wallet workflows, S3-
 - Responsible for backend design, integration layers, and product-readiness support
 - Helped shape the technical foundation for the initiative
 
+---
+
 ## ❗ Problem
 
 The platform needed a reliable backend foundation for payment workflows while remaining flexible enough to support Web3-specific infrastructure and operational growth.
+
+---
 
 ### 🧩 Sub-Problem: payment workflow reliability
 
@@ -30,6 +40,14 @@ The platform needed a reliable backend foundation for payment workflows while re
 - Solution: separated service logic from persistence and external integration points.
 - Stack: Node.js/NestJS, PostgreSQL, Prisma.
 - Result: clearer backend boundaries for payment flows.
+
+### 📊 Metric callouts
+
+<p align="left">
+  <img src="https://img.shields.io/badge/IDR_50M-startup_support-0ea5e9?style=for-the-badge" alt="IDR 50M startup support" />
+  <img src="https://img.shields.io/badge/QRIS+MPC-wallet_workflows-111827?style=for-the-badge" alt="QRIS and MPC workflows" />
+  <img src="https://img.shields.io/badge/Prisma+PostgreSQL-transactional_core-10b981?style=for-the-badge" alt="Prisma PostgreSQL transactional core" />
+</p>
 
 ### 🧩 Sub-Problem: QRIS and wallet integration
 
@@ -47,6 +65,8 @@ The platform needed a reliable backend foundation for payment workflows while re
 - MPC wallet workflows
 - AWS / S3-compatible storage
 
+---
+
 ## Architecture / Flow
 
 - Backend service layer for payment and platform workflows
@@ -59,43 +79,61 @@ The platform needed a reliable backend foundation for payment workflows while re
 - Supported product readiness for SumbuPay
 - Helped the initiative receive **IDR 50,000,000** in FT UGM startup support funding
 
+---
+
 ## ✅ Solution
 
 - Built service boundaries around payment and platform workflows
 - Used Prisma + PostgreSQL for transactional persistence
 - Kept storage and integration concerns isolated from core business logic
 
+---
+
 ## 🖼️ Evidence
 
 ### 🎥 Demo / Video
 
-- Demo GIF: _add link or embed_
-- YouTube / Loom: _add link or embed_
+| Asset | Placeholder |
+|---|---|
+| Demo GIF | _add link or embed_ |
+| YouTube / Loom | _add link or embed_ |
 
 ### 🏗️ Architecture
 
-- Architecture diagram: _add link or embed_
-- Flow diagram: _add link or embed_
+| Asset | Placeholder |
+|---|---|
+| Architecture diagram | _add link or embed_ |
+| Flow diagram | _add link or embed_ |
 
 ### 🗃️ Data Model
 
-- ERD: _add link or embed_
+| Asset | Placeholder |
+|---|---|
+| ERD | _add link or embed_ |
 
 ### 💻 Code / Pattern
 
-- Code snippet: _add link or embed_
-- Architecture pattern: backend service boundaries for payment workflows
+| Asset | Placeholder |
+|---|---|
+| Code snippet | _add link or embed_ |
+| Architecture pattern | backend service boundaries for payment workflows |
 
 ### 📊 Metrics
 
-- IDR 50,000,000 startup support funding
-- Product readiness achieved for the initiative
+| Metric | Value |
+|---|---|
+| Startup support funding | IDR 50,000,000 |
+| Product readiness | Achieved |
+
+---
 
 ## ⚠️ Challenges
 
 - Designing backend flows for payment-adjacent operations
 - Keeping the system modular enough for future product expansion
 - Coordinating integration work with product constraints
+
+---
 
 ## 💡 What I Learned
 

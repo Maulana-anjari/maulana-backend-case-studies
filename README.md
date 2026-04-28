@@ -8,9 +8,13 @@ This repo collects sanitized and public project write-ups that highlight archite
 
 Backend engineer with 3+ years of experience across enterprise LLM systems, Web3/payment infrastructure, blockchain prototyping, and competition platforms. I build APIs, auth layers, databases, caching, and integration-heavy workflows with a production-first mindset and measurable delivery impact.
 
+---
+
 ## 🔑 Backend Keywords
 
 Python, FastAPI, Node.js, NestJS, REST APIs, SQL Server, PostgreSQL, Prisma, Redis, RBAC, JWT, Docker, GitHub Actions, CI/CD, Milvus, IPFS, Hyperledger Fabric, Cardano, QRIS, blockchain verification, caching, workflow automation, database design, integration engineering
+
+---
 
 ## 📚 Reading Format
 
@@ -26,12 +30,16 @@ Each case study now follows this structure:
 8. Challenges
 9. What I Learned
 
+---
+
 ## 🧩 What you'll find
 
 - Backend and API work
 - Auth, RBAC, and workflow design
 - Database, caching, and integration layers
 - LLM and blockchain-adjacent systems
+
+---
 
 ## 📂 Case Studies
 
@@ -43,6 +51,8 @@ Each case study now follows this structure:
 | [Find-It Registration Platform](case-studies/find-it-registration-platform.md) | JWT auth, team workflows, Google Drive/Sheets, admin verification | Backend API for 6 event categories |
 | [CAR-dano / Cardano Backend](case-studies/car-dano-cardano-backend.md) | Cardano, Node.js, Prisma, PostgreSQL, NFT minting, CI/CD | ~100% faster response time and 100% uptime for 20 concurrent users |
 | [Pharma Chain / Hyperledger Fabric](case-studies/pharma-chain-hyperledger-fabric.md) | Hyperledger Fabric, IPFS, REST APIs, off-chain DB, benchmarking | 2 Fabric networks, 6 organizations, 30+ Docker containers |
+
+---
 
 ## How to read this repo
 
@@ -61,6 +71,8 @@ Each case study follows the same structure:
 
 - [CAR-dano / cardano-backend](https://github.com/CAR-dano/cardano-backend)
 - [Pharma Chain / pharma-chain](https://github.com/dteti-sys-rsch/pharma-chain)
+
+---
 
 ## 📝 Notes
 
