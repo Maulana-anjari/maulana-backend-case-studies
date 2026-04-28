@@ -4,6 +4,10 @@
 
 - Original repo: https://github.com/dteti-sys-rsch/pharma-chain
 
+## Backend Keywords
+
+Hyperledger Fabric, IPFS, REST APIs, off-chain databases, Docker, benchmarking, interoperability, distributed systems, backend infrastructure, healthcare data exchange
+
 ## Overview
 
 Healthcare supply-chain interoperability prototype built with Hyperledger Fabric.

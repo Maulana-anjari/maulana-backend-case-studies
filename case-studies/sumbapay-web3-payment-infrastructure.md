@@ -10,6 +10,10 @@ The work centered on making the backend dependable enough for product readiness 
 
 - Private project; details sanitized for public sharing
 
+## Backend Keywords
+
+Node.js, NestJS, PostgreSQL, Prisma, QRIS integration, MPC wallet workflows, S3-compatible storage, payment infrastructure, backend architecture, product readiness
+
 ## My Role
 
 - Backend Engineer (Part-time, Co-Founder)

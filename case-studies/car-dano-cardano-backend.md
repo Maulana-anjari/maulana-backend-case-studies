@@ -4,6 +4,10 @@
 
 - Original repo: https://github.com/CAR-dano/cardano-backend
 
+## Backend Keywords
+
+Cardano, Node.js, Prisma, PostgreSQL, REST APIs, NFT minting, CI/CD, backend architecture, production reliability, performance optimization, blockchain verification
+
 ## Overview
 
 Backend system for a blockchain-backed vehicle inspection platform on Cardano.

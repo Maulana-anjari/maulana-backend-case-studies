@@ -10,6 +10,10 @@ The goal was to deliver a stable registration backend quickly and keep event ope
 
 - Private project; details sanitized for public sharing
 
+## Backend Keywords
+
+Node.js, REST APIs, authentication, authorization, Google Drive integration, Google Sheets integration, deployment support, registration workflows, backend delivery
+
 ## My Role
 
 - Backend Developer

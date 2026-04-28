@@ -4,6 +4,14 @@ Recruiter-friendly case studies for backend and software engineering work.
 
 This repo collects sanitized and public project write-ups that highlight architecture, delivery, and measurable impact across production and research systems.
 
+## Executive Summary
+
+Backend engineer with 3+ years of experience across enterprise LLM systems, Web3/payment infrastructure, blockchain prototyping, and competition platforms. I build APIs, auth layers, databases, caching, and integration-heavy workflows with a production-first mindset and measurable delivery impact.
+
+## Backend Keywords
+
+Python, FastAPI, Node.js, NestJS, REST APIs, SQL Server, PostgreSQL, Prisma, Redis, RBAC, JWT, Docker, GitHub Actions, CI/CD, Milvus, IPFS, Hyperledger Fabric, Cardano, QRIS, blockchain verification, caching, workflow automation, database design, integration engineering
+
 ## What you'll find
 
 - Backend and API work

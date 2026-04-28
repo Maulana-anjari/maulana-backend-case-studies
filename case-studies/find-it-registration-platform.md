@@ -10,6 +10,10 @@ This project shows how I handled registration logic, team workflows, and admin c
 
 - Private project; details sanitized for public sharing
 
+## Backend Keywords
+
+Node.js, JWT authentication, team workflows, Google Drive upload, Google Sheets statistics, admin verification, backend API, registration system, workflow automation
+
 ## My Role
 
 - Backend Developer

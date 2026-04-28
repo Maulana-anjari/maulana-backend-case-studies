@@ -10,6 +10,10 @@ I worked on the backend layer that kept the system reliable, fast, and maintaina
 
 - Private project; details sanitized for public sharing
 
+## Backend Keywords
+
+Python, FastAPI, SQL Server, Milvus, Redis, RBAC, REST APIs, LLM integration, caching, API contracts, production backend, workflow support
+
 ## My Role
 
 - Backend Engineer (Part-time)
