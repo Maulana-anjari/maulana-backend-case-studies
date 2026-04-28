@@ -1,43 +1,43 @@
 # Pharma Chain / Hyperledger Fabric
 
-## Repository
+## 🔗 Repository
 
 - Original repo: https://github.com/dteti-sys-rsch/pharma-chain
 
-## Backend Keywords
+## 🔑 Backend Keywords
 
 Hyperledger Fabric, IPFS, REST APIs, off-chain databases, Docker, benchmarking, interoperability, distributed systems, backend infrastructure, healthcare data exchange
 
-## Overview
+## 🧾 Overview
 
 Healthcare supply-chain interoperability prototype built with Hyperledger Fabric.
 
 The project explored secure data exchange between hospital and insurance networks using a distributed backend architecture.
 
-## My Role
+## 🛠️ My Role
 
 - Blockchain Researcher Intern
 - Focused on backend infrastructure, cross-chain flows, IPFS, and off-chain data integration
 
-## Problem
+## ❗ Problem
 
 The system needed a testbed for secure interoperability between distinct blockchain networks without overloading the ledger with large data.
 
-### Sub-Problem: cross-network interoperability
+### 🧩 Sub-Problem: cross-network interoperability
 
 - Problem: hospital and insurance networks needed to exchange data securely.
 - Solution: built a cross-network application flow around Hyperledger Fabric.
 - Stack: Hyperledger Fabric, REST APIs, off-chain databases.
 - Result: two networks could work together in a controlled testbed.
 
-### Sub-Problem: ledger size and data storage
+### 🧩 Sub-Problem: ledger size and data storage
 
 - Problem: large data could not live directly on-chain.
 - Solution: used IPFS and off-chain storage for heavy data.
 - Stack: IPFS, off-chain databases, Docker.
 - Result: a more efficient distributed architecture.
 
-## Stack
+## 🧰 Stack
 
 - Hyperledger Fabric
 - REST APIs
@@ -54,52 +54,52 @@ The system needed a testbed for secure interoperability between distinct blockch
 - Off-chain database integration for operational data
 - Benchmarking with load and performance measurement tools
 
-## Impact
+## 📈 Result / Impact
 
 - Built **2 independent Hyperledger Fabric networks**
 - Configured **6 organizations**
 - Coordinated **30+ Docker containers**
 
-## Solution
+## ✅ Solution
 
 - Split the prototype into two Fabric networks
 - Added off-chain data handling for large or heavy content
 - Used IPFS for decentralized storage and backend traceability
 
-## Evidence
+## 🖼️ Evidence
 
-### Demo / Video
+### 🎥 Demo / Video
 
 - Demo GIF: _add link or embed_
 - YouTube / Loom: _add link or embed_
 
-### Architecture
+### 🏗️ Architecture
 
 - Architecture diagram: _add link or embed_
 - Flow diagram: _add link or embed_
 
-### Data Model
+### 🗃️ Data Model
 
 - ERD: _add link or embed_
 
-### Code / Pattern
+### 💻 Code / Pattern
 
 - Code snippet: _add link or embed_
 - Architecture pattern: on-chain verification with off-chain storage
 
-### Metrics
+### 📊 Metrics
 
 - 2 independent Hyperledger Fabric networks
 - 6 organizations configured
 - 30+ Docker containers
 
-## Challenges
+## ⚠️ Challenges
 
 - Coordinating multiple blockchain networks cleanly
 - Keeping data movement efficient across on-chain and off-chain layers
 - Managing infrastructure complexity without losing traceability
 
-## What I Learned
+## 💡 What I Learned
 
 - Distributed systems need clear boundaries between verification and storage
 - Blockchain prototypes still need strong backend discipline

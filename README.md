@@ -4,15 +4,15 @@ Recruiter-friendly case studies for backend and software engineering work.
 
 This repo collects sanitized and public project write-ups that highlight architecture, delivery, and measurable impact across production and research systems.
 
-## Executive Summary
+## 💡 Executive Summary
 
 Backend engineer with 3+ years of experience across enterprise LLM systems, Web3/payment infrastructure, blockchain prototyping, and competition platforms. I build APIs, auth layers, databases, caching, and integration-heavy workflows with a production-first mindset and measurable delivery impact.
 
-## Backend Keywords
+## 🔑 Backend Keywords
 
 Python, FastAPI, Node.js, NestJS, REST APIs, SQL Server, PostgreSQL, Prisma, Redis, RBAC, JWT, Docker, GitHub Actions, CI/CD, Milvus, IPFS, Hyperledger Fabric, Cardano, QRIS, blockchain verification, caching, workflow automation, database design, integration engineering
 
-## Reading Format
+## 📚 Reading Format
 
 Each case study now follows this structure:
 
@@ -26,14 +26,14 @@ Each case study now follows this structure:
 8. Challenges
 9. What I Learned
 
-## What you'll find
+## 🧩 What you'll find
 
 - Backend and API work
 - Auth, RBAC, and workflow design
 - Database, caching, and integration layers
 - LLM and blockchain-adjacent systems
 
-## Case Studies
+## 📂 Case Studies
 
 | Project | Focus | Impact |
 |---|---|---|
@@ -57,12 +57,12 @@ Each case study follows the same structure:
 7. Challenges
 8. What I Learned
 
-## Public project sources
+## 🔗 Public project sources
 
 - [CAR-dano / cardano-backend](https://github.com/CAR-dano/cardano-backend)
 - [Pharma Chain / pharma-chain](https://github.com/dteti-sys-rsch/pharma-chain)
 
-## Notes
+## 📝 Notes
 
 - Metrics and implementation details are sanitized where needed.
 - The goal is to show backend judgment, delivery speed, and systems thinking.
