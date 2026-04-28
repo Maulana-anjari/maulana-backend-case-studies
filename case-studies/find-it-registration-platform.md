@@ -4,6 +4,8 @@
 
 Backend system for a national competition registration platform covering multiple event categories.
 
+This project shows how I handled registration logic, team workflows, and admin checks in a production-style event system.
+
 ## My Role
 
 - Backend Developer

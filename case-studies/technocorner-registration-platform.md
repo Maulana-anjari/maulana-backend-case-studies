@@ -4,6 +4,8 @@
 
 Backend system for a national competition registration platform supporting multiple competition tracks.
 
+The goal was to deliver a stable registration backend quickly and keep event operations manageable.
+
 ## My Role
 
 - Backend Developer

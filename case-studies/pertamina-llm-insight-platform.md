@@ -2,16 +2,19 @@
 
 ## Overview
 
-Backend engineering for an enterprise LLM insight platform used to support internal analysis and operational workflows.
+Enterprise LLM insight platform for internal analysis and operational workflows.
+
+I worked on the backend layer that kept the system reliable, fast, and maintainable while supporting integration-heavy features.
 
 ## My Role
 
 - Backend Engineer (Part-time)
 - Focused on API contracts, data access, performance, RBAC, and integration-heavy features
+- Worked across backend implementation, bug fixes, and workflow support
 
 ## Problem
 
-The system needed to support a production workflow with reliable backend behavior, fast iteration, and structured access control. The work also had to accommodate LLM-related features without degrading stability or maintainability.
+The system needed reliable backend behavior, fast iteration, and structured access control. It also had to support LLM-related workflows without degrading stability or maintainability.
 
 ## Stack
 

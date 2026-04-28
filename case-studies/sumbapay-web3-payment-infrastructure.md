@@ -4,10 +4,13 @@
 
 Backend foundations for a Web3 payment platform focused on payments, QRIS integration, and wallet workflows.
 
+The work centered on making the backend dependable enough for product readiness while keeping the system flexible for future growth.
+
 ## My Role
 
 - Backend Engineer (Part-time, Co-Founder)
 - Responsible for backend design, integration layers, and product-readiness support
+- Helped shape the technical foundation for the initiative
 
 ## Problem
 
